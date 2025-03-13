@@ -2,7 +2,7 @@
 3 semaines après notre tout premier "Hello World!" nous nous lançons dans le développement du jeu PACMAN dans le cadre des métudes en DUT informatique.
 
 🛠️ Technologies utilisées
-Langage : Langage C ![image](https://github.com/user-attachments/assets/f29fc8e4-6c2a-437e-9e55-40c7a054a44f)
+Langage : Langage C
 
 
 🌟 Pourquoi ce projet ?
